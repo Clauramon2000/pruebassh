@@ -1,0 +1,6 @@
+es una prueba
+a
+b
+c
+d
+fin
